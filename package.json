@@ -1,0 +1,9 @@
+{
+  "name": "ipfs_upload",
+  "version": "1.0.0",
+  "description": "A quick way to upload file on IPFS",
+  "license": "ISC",
+  "dependencies": {
+    "ipfs-http-client": "49.0.4"
+  }
+}
