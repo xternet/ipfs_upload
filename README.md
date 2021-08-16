@@ -7,5 +7,5 @@
 3. **In 1st terminal window run IPFS node**
    </br>`jsipfs daemon`
    </br>if will not work: `ipfs daemon`
-4. **In 2nd terminal window execute the script**
-   </br>`node upload`
+4. **In 2nd terminal window enter project directory and execute the script**
+   </br>`cd ipfs_upload && node upload`
